@@ -848,7 +848,7 @@ def main():
             model.resize_token_embeddings(new_num_tokens, pad_to_multiple_of=2)
 
     if model_args.use_lora:
-        import torch.distributed.tensor  # noqa: F401  (peft/torch version quirk)
+        import importlib; importlib.import_module("torch.distributed.tensor")  # peft/torch quirk; must not bind a local `torch`
         from peft import LoraConfig, inject_adapter_in_model
         targets = [
             n for n, mod in model.named_modules()
@@ -916,19 +916,9 @@ def main():
     num_speakers = model.config.num_speakers
 
     def export_merged(path):
-        """Merge LoRA into the base weights of a copy and save a plain, HF-loadable VitsModel (no discriminator)."""
-        import copy
-        from peft.tuners.lora import LoraLayer
-        m = copy.deepcopy(accelerator.unwrap_model(model)).cpu().eval()
-        for mod in list(m.modules()):
-            if isinstance(mod, LoraLayer):
-                mod.merge()
-        for parent in list(m.modules()):
-            for cname, child in list(parent.named_children()):
-                if isinstance(child, LoraLayer):
-                    setattr(parent, cname, child.get_base_layer())
-        if hasattr(m, "discriminator"):
-            del m.discriminator
+        """Merge LoRA into the base weights and save a plain, HF-loadable VitsModel (no discriminator)."""
+        from utils.lora_merge import merged_plain_model
+        m = merged_plain_model(accelerator.unwrap_model(model))
         os.makedirs(path, exist_ok=True)
         m.save_pretrained(path)
         tokenizer.save_pretrained(path)

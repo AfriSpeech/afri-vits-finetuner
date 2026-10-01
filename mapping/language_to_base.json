@@ -9736,12 +9736,28 @@
   "name": "Gbaya (South Sudan)",
   "family_g2p": "Central Sudanic",
   "glottocode": "gbay1288",
-  "base": "krs",
-  "quality": "same_language",
-  "tree_distance": 0,
-  "ipa_jaccard": 1.0,
-  "km": 0,
-  "alternatives": []
+  "base": "flr",
+  "quality": "inventory_only",
+  "tree_distance": null,
+  "ipa_jaccard": 0.969,
+  "km": 1350,
+  "alternatives": [
+   {
+    "base": "men",
+    "tree_distance": null,
+    "ipa_jaccard": 0.969
+   },
+   {
+    "base": "ndz",
+    "tree_distance": null,
+    "ipa_jaccard": 0.939
+   },
+   {
+    "base": "gvl",
+    "tree_distance": null,
+    "ipa_jaccard": 0.939
+   }
+  ]
  },
  "krw": {
   "name": "Western Krahn",

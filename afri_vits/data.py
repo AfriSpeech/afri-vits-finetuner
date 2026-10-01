@@ -13,7 +13,7 @@ def prepare(dataset, lang, out_dir, *, config=None, split="train", audio_col="au
     """
     import datasets
     from .text import normalise
-    ds = datasets.load_dataset(dataset, config, split=split) if not os.path.isdir(dataset) else _load_local(dataset, split)
+    ds = _load_local(dataset, split) if os.path.exists(dataset) else datasets.load_dataset(dataset, config, split=split)
     for c in (audio_col, text_col) + ((speaker_col,) if speaker_col else ()):
         if c not in ds.column_names:
             raise SystemExit(f"column '{c}' not in dataset columns {ds.column_names}")
@@ -70,7 +70,10 @@ def _mk(d):
 
 
 def _load_local(path, split):
+    """A single .parquet file, a folder containing parquet files, or an audiofolder (audio files + metadata.csv)."""
     import glob, datasets
+    if os.path.isfile(path):
+        return datasets.load_dataset("parquet", data_files=path, split="train")
     pq = sorted(glob.glob(os.path.join(path, "**", "*.parquet"), recursive=True))
     if pq: return datasets.load_dataset("parquet", data_files=pq, split="train")
     return datasets.load_dataset("audiofolder", data_dir=path, split=split)

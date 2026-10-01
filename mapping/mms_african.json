@@ -1,5 +1,5 @@
 {
- "n": 362,
+ "n": 361,
  "codes": [
   "abi",
   "acd",
@@ -164,7 +164,6 @@
   "kqp",
   "kqy",
   "kri",
-  "krs",
   "ksb",
   "kss",
   "ktb",
@@ -439,5 +438,8 @@
   "yaz",
   "zim",
   "zmz"
- ]
+ ],
+ "excluded": {
+  "krs": "facebook/mms-tts-krs has no weights file (broken upstream repo)"
+ }
 }
