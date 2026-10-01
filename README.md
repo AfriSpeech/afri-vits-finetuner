@@ -88,7 +88,7 @@ python scripts/publish_bases.py bases              # upload to AfriSpeech/afri-v
 - africa-g2p applies the target language's spelling rules to every word, so English loanwords come out as odd IPA
   (consistent, but not English-sounding).
 - Rows containing digits are dropped by default (numbers are not spoken in the written form). Use `--keep-digits` to keep them.
-- Quality has been checked on Twi, Ewe and Dagbani only; see `docs/` once results are added.
+- **Testing status.** LoRA fine-tuning was exercised on Dagbani (trained to step 3,000 of 4,000; pacing matched the real speaker, audio quality not formally evaluated). Full fine-tuning and multispeaker LoRA each hit a bug during testing (both fixed, see the commit log) and their re-runs were stopped before finishing, so those two paths are **unverified end to end**. Treat the whole repo as an early release.
 
 ## Credits
 

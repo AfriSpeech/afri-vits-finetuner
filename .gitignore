@@ -8,3 +8,4 @@ mapping/_glottolog_cache/
 *.so
 *.c
 build/
+samples_*/
