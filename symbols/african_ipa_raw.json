@@ -1,0 +1,1568 @@
+{
+ "a": {
+  "count": 3703,
+  "languages": 748,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "t": {
+  "count": 3142,
+  "languages": 748,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "k": {
+  "count": 2143,
+  "languages": 747,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "m": {
+  "count": 1326,
+  "languages": 747,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "n": {
+  "count": 1739,
+  "languages": 743,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "e": {
+  "count": 3872,
+  "languages": 742,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "i": {
+  "count": 2695,
+  "languages": 742,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "d": {
+  "count": 2868,
+  "languages": 739,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "b": {
+  "count": 2236,
+  "languages": 736,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "j": {
+  "count": 1206,
+  "languages": 735,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "u": {
+  "count": 2439,
+  "languages": 735,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "s": {
+  "count": 1680,
+  "languages": 729,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "w": {
+  "count": 921,
+  "languages": 727,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "͡": {
+  "count": 3542,
+  "languages": 725,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "o": {
+  "count": 3001,
+  "languages": 722,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɡ": {
+  "count": 1732,
+  "languages": 717,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "l": {
+  "count": 1314,
+  "languages": 715,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "p": {
+  "count": 1670,
+  "languages": 710,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "f": {
+  "count": 1041,
+  "languages": 670,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "h": {
+  "count": 1208,
+  "languages": 646,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ŋ": {
+  "count": 1198,
+  "languages": 628,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "r": {
+  "count": 1137,
+  "languages": 627,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʃ": {
+  "count": 1543,
+  "languages": 609,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʒ": {
+  "count": 1123,
+  "languages": 609,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɲ": {
+  "count": 794,
+  "languages": 574,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "z": {
+  "count": 1054,
+  "languages": 529,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "v": {
+  "count": 826,
+  "languages": 516,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ⁿ": {
+  "count": 613,
+  "languages": 277,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᵐ": {
+  "count": 448,
+  "languages": 260,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʷ": {
+  "count": 1133,
+  "languages": 215,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ː": {
+  "count": 1806,
+  "languages": 197,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɣ": {
+  "count": 210,
+  "languages": 157,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɟ": {
+  "count": 183,
+  "languages": 152,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᶮ": {
+  "count": 177,
+  "languages": 143,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "x": {
+  "count": 253,
+  "languages": 123,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᵑ": {
+  "count": 247,
+  "languages": 122,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʰ": {
+  "count": 317,
+  "languages": 108,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʕ": {
+  "count": 155,
+  "languages": 94,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "q": {
+  "count": 267,
+  "languages": 82,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʲ": {
+  "count": 215,
+  "languages": 72,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᵘ": {
+  "count": 115,
+  "languages": 59,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ð": {
+  "count": 86,
+  "languages": 58,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᶬ": {
+  "count": 67,
+  "languages": 48,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɬ": {
+  "count": 57,
+  "languages": 43,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ǁ": {
+  "count": 181,
+  "languages": 40,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɮ": {
+  "count": 44,
+  "languages": 40,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʱ": {
+  "count": 66,
+  "languages": 37,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ǂ": {
+  "count": 59,
+  "languages": 27,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ǀ": {
+  "count": 69,
+  "languages": 17,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ǃ": {
+  "count": 81,
+  "languages": 14,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʎ": {
+  "count": 13,
+  "languages": 13,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "̥": {
+  "count": 16,
+  "languages": 12,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "-": {
+  "count": 38,
+  "languages": 11,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "’": {
+  "count": 78,
+  "languages": 11,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "c": {
+  "count": 12,
+  "languages": 10,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "œ": {
+  "count": 17,
+  "languages": 10,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "̤": {
+  "count": 10,
+  "languages": 9,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᶢ": {
+  "count": 76,
+  "languages": 9,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɽ": {
+  "count": 10,
+  "languages": 8,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ⱱ": {
+  "count": 11,
+  "languages": 8,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʼ": {
+  "count": 34,
+  "languages": 7,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʍ": {
+  "count": 6,
+  "languages": 6,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʳ": {
+  "count": 9,
+  "languages": 6,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "(": {
+  "count": 134,
+  "languages": 5,
+  "sources": [
+   "empirical"
+  ]
+ },
+ ")": {
+  "count": 134,
+  "languages": 5,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ɖ": {
+  "count": 6,
+  "languages": 5,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "β": {
+  "count": 5,
+  "languages": 5,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᵡ": {
+  "count": 29,
+  "languages": 5,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᶯ": {
+  "count": 6,
+  "languages": 5,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʐ": {
+  "count": 4,
+  "languages": 4,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʘ": {
+  "count": 18,
+  "languages": 4,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "χ": {
+  "count": 9,
+  "languages": 4,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɫ": {
+  "count": 4,
+  "languages": 3,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "̃": {
+  "count": 4,
+  "languages": 3,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "͈": {
+  "count": 4,
+  "languages": 3,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "/": {
+  "count": 2,
+  "languages": 2,
+  "sources": [
+   "empirical"
+  ]
+ },
+ ":": {
+  "count": 6,
+  "languages": 2,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "=": {
+  "count": 5,
+  "languages": 2,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ʂ": {
+  "count": 2,
+  "languages": 2,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʙ": {
+  "count": 3,
+  "languages": 2,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʢ": {
+  "count": 20,
+  "languages": 2,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ᶣ": {
+  "count": 2,
+  "languages": 2,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ṽ": {
+  "count": 3,
+  "languages": 2,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "!": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "\"": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "*": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "?": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ç": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɢ": {
+  "count": 6,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ɾ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʤ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʧ": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ʶ": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ˀ": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ˡ": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "ˣ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "̞": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "̪": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "א": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "פ": {
+  "count": 2,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ץ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "צ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ᄋ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ᅣ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical"
+  ]
+ },
+ "ᵍ": {
+  "count": 1,
+  "languages": 1,
+  "sources": [
+   "empirical",
+   "universal_table"
+  ]
+ },
+ "'": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ ".": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "y": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "~": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "à": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "á": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ã": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ä": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "æ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "è": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ò": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "õ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ö": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ø": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ü": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "č": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ħ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ĩ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ń": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ũ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ƙ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ƫ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ǐ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ǝ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɐ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɑ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɒ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɓ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɔ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɕ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɗ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɘ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ə": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɚ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɛ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɜ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɠ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɤ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɥ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɦ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɨ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɪ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɭ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɯ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɰ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɱ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɳ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɴ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɵ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɸ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɹ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɺ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ɻ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʀ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʁ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʄ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʆ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʈ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʉ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʊ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʋ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʌ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʑ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʔ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʜ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʝ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʣ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʦ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ʨ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ˁ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ˈ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ˑ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ˤ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̀": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̆": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̈": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̊": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̍": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̘": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̙": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̝": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̟": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̠": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̡": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̩": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̭": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̯": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̰": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̵": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̺": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "̽": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "͜": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "͠": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "θ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ᵇ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ᵈ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ᵏ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ᵝ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ᶲ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ḅ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ẽ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ị": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "ụ": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "↓": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "∅": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ },
+ "𝼄": {
+  "count": 0,
+  "languages": 0,
+  "sources": [
+   "universal_table"
+  ]
+ }
+}

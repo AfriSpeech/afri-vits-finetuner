@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+bases/
+runs/
+data/
+mapping/_glottolog_cache/
+*.log
+*.so
+*.c
+build/

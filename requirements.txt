@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers==4.46.3
+accelerate<1.3
+datasets==3.6.0
+peft
+huggingface_hub
+soundfile
+librosa
+matplotlib
+tensorboard
+Cython
+africa-g2p
+pyarrow

@@ -1,0 +1,751 @@
+language,name,base,quality,tree_distance,ipa_jaccard,km
+aab,Alumu-Tesu,kub,close_relative,6,0.875,274
+aar,Afar,dsh,same_family,7,0.633,1063
+abi,Abidji,abi,same_language,0,1.0,0
+abn,Abua,ann,close_relative,5,0.867,135
+abr,Abron,aka,sister,2,0.793,200
+acd,Kyode,acd,same_language,0,1.0,0
+ach,Acholi,ach,same_language,0,1.0,0
+acz,Acheron,soy,inventory_only,,0.826,3171
+ada,Dangme,ati,close_relative,4,,437
+ade,Adele,ade,same_language,0,1.0,0
+adh,Adhola,adh,same_language,0,1.0,0
+adj,Adioukrou,adj,same_language,0,1.0,0
+aeb,Arabic (Tunisian),tir,same_family,10,0.714,3588
+ael,Ambala,bkv,close_relative,4,0.654,122
+afo,Ajiri,iri,close_relative,4,0.861,194
+afr,Afrikaans,eng,same_family,13,0.763,9638
+agq,Aghem,lns,close_relative,6,0.722,87
+ags,Esimbi,ken,close_relative,4,0.742,108
+aha,Ahanta,aha,same_language,0,1.0,0
+aiw,Aari,amf,close_relative,4,0.784,99
+ajg,Aja,gej,close_relative,3,1.0,90
+akp,Siwu,akp,same_language,0,1.0,0
+aks,Kamba,bud,sister,2,0.531,93
+aku,Akum,kub,close_relative,6,0.794,28
+ald,Alladian,ati,close_relative,3,,109
+alw,Alaba-K’abeena,ktb,sister,2,0.667,29
+alz,Alur,alz,same_language,0,1.0,0
+amb,Andoa,bkv,close_relative,5,0.63,215
+amf,Hamer,amf,same_language,0,1.0,0
+amh,Amharic,amh,same_language,0,1.0,0
+anc,Angas,sur,sister,2,0.778,57
+ank,Goemai,sur,close_relative,3,0.684,116
+ann,Obolo,ann,same_language,0,1.0,0
+anu,Anuak,shk,sister,2,0.96,353
+anv,Denya,ken,close_relative,3,0.963,47
+any,Anyin,any,same_language,0,1.0,0
+apd,"Arabic, Sudanese (Latin)",tir,same_family,10,0.667,658
+ara,Cypriot Arabic,ara,same_language,0,1.0,
+arb,Arabic (Modern Standard),tir,close_relative,6,0.537,1493
+arq,"Arabic, Algerian",tir,same_family,9,0.55,4189
+ary,Arabic (Moroccan),tir,same_family,9,0.61,5043
+arz,Arabic (Egyptian),tir,same_family,8,0.548,1919
+asg,Cishingini,asg,same_language,0,1.0,0
+asj,Sari,nhu,close_relative,3,0.793,29
+atg,Ivbie North-Okpela-Arhe,atg,same_language,0,1.0,0
+ato,Atong,lns,close_relative,5,0.553,125
+avi,Lahu,ati,close_relative,3,,184
+avn,Avatime,avn,same_language,0,1.0,0
+avu,Avokaya,avu,same_language,0,1.0,0
+ayb,Ayizo,fon,close_relative,4,0.929,84
+azo,Awing,pny,sister,2,0.806,24
+bag,Tuki,yat,close_relative,4,0.688,70
+bam,Bambara,bam,same_language,0,1.0,0
+bas,Basaa,kkj,same_family,7,0.906,578
+bav,Vengo,bav,same_language,0,1.0,0
+bax,Bamum,pny,close_relative,4,0.7,93
+bba,Bariba,bba,same_language,0,1.0,0
+bbj,Ghomálá',pny,close_relative,5,0.757,55
+bbk,Babanki,oku,close_relative,3,0.733,38
+bbq,Babatana,pny,close_relative,5,0.724,45
+bci,Baoulé,cko,sister,2,0.893,797
+bcn,Bali (Nigeria),mzm,close_relative,5,0.893,47
+bcq,Bench,mdy,close_relative,4,0.771,184
+bcv,Shoo-Minda-Nye,kub,close_relative,6,0.824,227
+bcw,Bana,bcw,same_language,0,1.0,0
+bcy,Bacama,gde,close_relative,6,0.812,167
+bde,Bade,hau,same_family,8,0.69,273
+bdh,Baka (Sudan),bdh,same_language,0,1.0,0
+bdj,Bai,ndz,close_relative,3,0.61,120
+bds,Burunge,irk,close_relative,4,0.818,135
+bdu,Oroko,bdu,same_language,0,1.0,0
+bec,Iceve-Maci,ken,close_relative,6,0.719,94
+beh,Biali,beh,same_language,0,1.0,0
+bej,Beja,kab,close_relative,5,0.812,3787
+bem,Bemba,bem,same_language,0,1.0,0
+beq,Beembe (Congo),vif,same_family,7,0.812,302
+bet,"Bété, Guiberoua",kyf,close_relative,4,0.867,126
+bev,"Bété, Daloa",kyf,close_relative,4,0.963,65
+bex,Jur Modo,bex,same_language,0,1.0,0
+bez,Bena (Tanzania),heh,sister,2,,188
+bfa,Bari,bfa,same_language,0,1.0,0
+bfd,Bafut,pny,close_relative,3,0.9,38
+bfj,Bafanji,pny,close_relative,4,0.65,43
+bfm,Mmen,bmv,sister,2,0.722,19
+bfo,"Birifor, Malba",bfo,same_language,0,1.0,0
+bhs,Buwal,dbq,close_relative,4,0.833,40
+bhy,Bhele,loq,same_family,11,0.677,1163
+bib,Bisa,bib,same_language,0,1.0,0
+bim,Bimoba,bim,same_language,0,1.0,0
+bin,Edo (Bini),atg,same_family,7,0.806,100
+biv,Southern Birifor,biv,same_language,0,1.0,0
+bjo,Banda,zmz,same_family,7,,396
+bjt,Balanta-Ganja,dyo,close_relative,5,0.688,26
+bjv,Bedjond,bjv,same_language,0,1.0,0
+bjw,Bakwé,bjw,same_language,0,1.0,0
+bkc,Baka,muh,close_relative,6,0.824,1815
+bkh,Bakoko,kkj,close_relative,6,0.758,625
+bkm,Kom (Cameroon),oku,sister,2,0.538,19
+bkv,Bekwarra,bkv,same_language,0,1.0,0
+bkw,Bekwel,ozm,close_relative,3,0.714,211
+bky,Bekwarra,bkv,close_relative,3,0.96,74
+ble,Balanta-Kentohe,dyo,close_relative,5,0.758,113
+blm,Beli,bex,close_relative,3,0.771,46
+bma,Lame,mbu,close_relative,3,0.781,398
+bmo,Bambalang,pny,close_relative,4,0.711,53
+bmv,Bum,bmv,same_language,0,1.0,0
+bng,Benga,bng,same_language,0,1.0,0
+bni,Bangi,loq,same_family,8,0.812,349
+bol,Bole,sur,same_family,10,0.757,334
+bom,Berom,bom,same_language,0,1.0,0
+bot,Bongo,bdh,close_relative,3,0.727,354
+bov,Tuwuli,bov,same_language,0,1.0,0
+box,Buamu,box,same_language,0,1.0,0
+boy,Bodo,loq,same_family,12,0.677,954
+boz,Bozo,bbo,same_family,8,,201
+bqc,Boko (Benin),bqc,same_language,0,1.0,0
+bqj,Bandial,bqj,same_language,0,1.0,0
+bqp,Busa,bqp,same_language,0,1.0,0
+bqx,Kambari,kdl,close_relative,4,0.929,162
+bri,Mokpwe,bdu,close_relative,4,0.697,73
+bsc,Bassari,bsc,same_language,0,1.0,0
+bsp,Baga Sitemu,tem,sister,2,0.958,293
+bsq,Bassa,bsq,same_language,0,1.0,0
+bss,Akoose,bss,same_language,0,1.0,0
+bsw,Baiso,rel,close_relative,3,0.632,467
+btg,"Bété, Gagnoa",kyf,sister,2,1.0,146
+btt,Bete-Bendi,btt,same_language,0,1.0,0
+buc,Bushi,loq,inventory_only,,0.909,3393
+bud,Bassar (N'tcham),bud,same_language,0,1.0,0
+buf,Bushong,bkv,same_family,10,0.808,1889
+bui,Bongili,loq,same_family,8,0.871,270
+bum,Bulu,kkj,close_relative,5,0.758,449
+bus,Bokobaru,bus,same_language,0,1.0,0
+buu,Budu,rim,same_family,14,0.794,1088
+buy,Bullom So,kss,close_relative,5,0.833,319
+bva,Barein,moz,close_relative,3,0.885,104
+bvm,Bamunka,bav,close_relative,3,0.706,17
+bwc,Bwile,tap,sister,2,,45
+bwj,Láá Láá Bwamu,box,sister,2,0.96,64
+bwo,Borna,kbr,close_relative,3,0.793,380
+bwr,Bura-Pabir,mif,close_relative,6,0.865,189
+bwt,Bafaw-Balong,bdu,sister,2,0.636,57
+bwu,Buli,bwu,same_language,0,1.0,0
+bxk,Bukusu,myx,sister,2,0.639,69
+byn,Blin,kab,same_family,8,0.6,4033
+byv,Medumba,pny,close_relative,5,0.722,98
+bza,Bandi (Gbande),men,close_relative,4,0.812,95
+bzw,Basa,kdl,same_family,7,0.9,296
+cce,Chopi,cce,same_language,0,1.0,0
+cen,Ibaas,izr,sister,2,0.931,41
+cgg,Kiga,nyn,sister,2,,96
+cjk,Chokwe,nim,same_family,10,0.833,1535
+ckl,Cibak,xed,close_relative,6,0.875,86
+cko,Chakosi,cko,same_language,0,1.0,0
+cla,Ron,cla,same_language,0,1.0,0
+cll,Chala,ntr,sister,2,0.962,14
+cme,Cerma (Gouin),cme,same_language,0,1.0,0
+cop,Coptic,kab,close_relative,5,0.636,2576
+cou,Wamey,cou,same_language,0,1.0,0
+csk,Jola-Kasa,csk,same_language,0,1.0,0
+cuv,Cuvok,dbq,close_relative,6,0.914,52
+cwa,Kabwa,cwa,same_language,0,1.0,0
+cwt,Kuwaataay,cwt,same_language,0,1.0,0
+daa,Dangaléat,daa,same_language,0,1.0,0
+dae,Duupa,mzm,same_family,7,1.0,195
+daf,Dan (Yacouba) (Blowo),neb,close_relative,3,,117
+dag,Dagbani,maw,sister,2,0.933,89
+dbd,Dadiya,bba,same_family,8,0.741,917
+dbq,Daba,dbq,same_language,0,1.0,0
+dec,Dengebu,bba,inventory_only,,0.739,2951
+dga,Southern Dagaare,dga,same_language,0,1.0,0
+dgd,Dagaare,wlx,sister,2,,186
+dgi,"Dagara, Northern",dgi,same_language,0,1.0,0
+dhm,Zemba,kkj,same_family,10,0.818,2358
+did,Lango,did,same_language,0,1.0,0
+dig,Chidigo,dig,same_language,0,1.0,0
+dik,Dinka Southwestern,dik,same_language,0,1.0,0
+din,Dinka,dip,sister,1,1.0,209
+dip,Northeastern Dinka,dip,same_language,0,1.0,0
+dks,"Dinka, Southeastern",dip,sister,2,0.963,258
+dmf,Medefaidrin,lom,inventory_only,,0.933,
+dnj,Dan,neb,close_relative,3,,117
+dnn,Dzùùngoo,bwq,same_family,7,,74
+dno,Ndrulo,mgd,close_relative,5,0.675,325
+dop-benin,Lokpa (Dompago),soy,inventory_only,,0.909,
+dop-benin2,Lokpa (Dompago),soy,inventory_only,,0.909,
+dow,Doayo,mzm,close_relative,6,0.889,152
+dsh,Daasanach,dsh,same_language,0,1.0,0
+dua,Duala,bng,close_relative,5,0.781,337
+dug,Duruma,dug,same_language,0,1.0,0
+dur,Dii,mzm,same_family,7,0.964,280
+dyi,Djimini Senoufo,dyi,same_language,0,1.0,0
+dyo,Jola-Fonyi,dyo,same_language,0,1.0,0
+dyu,Dioula (Jula),dyu,same_language,0,1.0,0
+dzd,Daza,sur,same_family,9,0.743,215
+ebo,Central Teke,rim,same_family,14,0.788,2134
+ebr,Tchaman,ati,close_relative,4,,74
+ebu,Embu,kik,close_relative,3,0.844,104
+efi,Efik,ann,same_family,7,0.742,69
+ego,Eggon,kub,close_relative,6,0.844,256
+eka,Ekajuk,eka,same_language,0,1.0,0
+ekm,Elip,yas,sister,2,0.8,19
+ell,Greek,ell,same_language,0,1.0,0
+ema,Emai,atg,same_family,8,0.933,41
+emk,Maninka,bam,close_relative,3,0.929,331
+eng,English,eng,same_language,0,1.0,0
+enn,Engenni,atg,same_family,7,0.759,227
+etn,Western Ejagham,trc,inventory_only,,0.926,10934
+eto,Eton,kkj,close_relative,5,0.686,472
+etu,Ejagham,eka,close_relative,5,0.929,109
+etx,Eten,bom,close_relative,3,0.871,23
+ewe,Ewe,ewe,same_language,0,1.0,0
+ewo,Ewondo,kkj,close_relative,6,0.758,412
+eza,Ezaa,eza,same_language,0,1.0,0
+fak,Fang,ken,close_relative,4,0.697,136
+fat,Fante,aka,same_language,0,0.931,0
+ffm,Fulfulde (Peul),ful,sister,1,0.763,274
+fia,Nobiin,khq,inventory_only,,1.0,3791
+fip,Fipa,nyy,close_relative,6,0.742,335
+flr,Fuliiru,flr,same_language,0,1.0,0
+fmp,Fe'efe'e,ybb,close_relative,5,0.926,35
+fng,Fanagalo,lom,inventory_only,,0.718,5440
+fod,Foodo,acd,sister,2,0.929,159
+fon,Fon,fon,same_language,0,1.0,0
+fub,Adamawa Fulfulde,ful,close_relative,3,0.737,1648
+fuc,Pulaar (Fulfulde),ful,sister,1,0.816,1318
+fue,Borgu Fulfulde,ful,sister,1,0.895,647
+fuf,Pular,ful,sister,1,0.895,1232
+fuh,Western Niger Fulfulde,ful,sister,1,0.816,243
+fuq,Fulfulde (Central-Eastern Niger),ful,sister,2,0.842,1108
+fuv,Fulani,ful,sister,2,0.816,1370
+gaa,Ga,ati,close_relative,4,,404
+gab,Gabri,kqp,sister,2,0.885,36
+gbo,"Grebo, Northern",gbo,same_language,0,1.0,0
+gbr,Gbagyi,kub,close_relative,6,0.818,429
+gbv,Gbanu,nga,close_relative,3,0.697,311
+gde,Gude,gde,same_language,0,1.0,0
+gdf,Guduf-Gava,pbi,close_relative,5,0.8,35
+gej,Gen,gej,same_language,0,1.0,0
+gel,ut-Ma’in,asg,same_family,8,0.839,187
+gez,Ge'ez,tir,sister,2,0.837,609
+gfe,Kpɛlɛwoo,ikk,inventory_only,,0.931,
+gha,Ghadamès,kab,close_relative,3,0.844,853
+gho,Ghomara,shi,close_relative,3,0.75,629
+gid,Gidar,xed,close_relative,3,0.867,126
+giz,South Giziga,xed,close_relative,5,0.824,92
+gjn,Gonja,gjn,same_language,0,1.0,0
+gkp,Guinea Kpelle,lom,close_relative,5,0.871,78
+glw,Glavda,mfi,close_relative,3,0.743,21
+gmv,Gamo,gmv,same_language,0,1.0,0
+gna,Kaansa,gna,same_language,0,1.0,0
+gnd,Zulgo-Gemzek,gnd,same_language,0,1.0,0
+gng,Gangam,gng,same_language,0,1.0,0
+goa,Guro,yre,sister,2,0.889,92
+god,Godié,kyf,close_relative,4,0.857,224
+gog,Gogo,gog,same_language,0,1.0,0
+gol,Gola,lia,close_relative,3,0.75,320
+gou,Gawar,dbq,close_relative,4,0.821,31
+gqa,Ga’anda,dbq,close_relative,6,0.75,108
+gqr,Gor,gqr,same_language,0,1.0,0
+grb,Grebo (Chlehpo Dialect),gbo,sister,2,0.846,63
+grr,Garawa,kab,close_relative,6,0.438,925
+gsl,Gusilay,bqj,sister,2,0.833,29
+gso,"Gbaya, Southwest",gso,same_language,0,1.0,0
+gud,Yocoboué Dida,gud,same_language,0,1.0,0
+guk,Gumuz,guk,same_language,0,1.0,0
+gur,Frafra,mos,close_relative,4,0.92,110
+guw,Gun,fon,sister,2,0.897,143
+gux,Gourmanchéma,gux,same_language,0,1.0,0
+guz,Gusii,sxb,sister,2,,76
+gvl,Gulay,gvl,same_language,0,1.0,0
+gwa,Mbato,ati,close_relative,4,,74
+gwd,Gawwada,dsh,same_family,7,0.7,167
+gwr,Gwere,gwr,same_language,0,1.0,0
+gxx,Guere,wob,sister,2,0.846,109
+gya,"Gbaya, Northwest",gso,close_relative,3,0.906,143
+gyz,Geji,hau,same_family,9,0.625,130
+hag,Hanga,hag,same_language,0,1.0,0
+har,Harari,amh,close_relative,4,0.744,389
+hau,Hausa Arabic script,hau,same_language,0,1.0,0
+hau-niger,Hausa,btt,inventory_only,,0.8,
+hau-nigeria,Hausa,btt,inventory_only,,0.833,
+hay,Haya,hay,same_language,0,1.0,0
+hbb,Huba,mif,same_family,7,0.889,100
+hbn,Heiban (Sudan),mor,close_relative,6,,54
+hdy,Hadiyya,ktb,close_relative,4,0.758,28
+her,Herero,nim,same_family,10,0.857,2362
+hts,Hadza,seh,inventory_only,,0.745,1775
+hwo,Hwana,mqb,close_relative,6,0.778,160
+ibb,Ibibio,ann,same_family,7,0.821,59
+ibo,Igbo,ikk,sister,2,0.967,219
+iby,Ibani,ikk,inventory_only,,0.931,232
+ich,Etkywan,kub,close_relative,4,0.844,29
+idc,Ajiya,kub,same_family,7,0.848,432
+idu,Idoma,yba,close_relative,3,0.926,111
+ife,Ifè,ife,same_language,0,1.0,0
+igb,Ebira,kub,close_relative,4,0.781,355
+ige,Igede,yba,close_relative,4,0.889,44
+igl,Igala,mkl,close_relative,4,0.893,611
+igo,Ahlõ,hag,inventory_only,,1.0,16377
+ijn,Kalabari,ikk,inventory_only,,0.897,208
+ikk,Ika,ikk,same_language,0,1.0,0
+ikw,Ikwerre,ikk,close_relative,3,0.875,159
+ikz,Ikizu,sxb,close_relative,5,,118
+ilb,Ila,ilb,same_language,0,1.0,0
+iqw,Ikwo,iqw,same_language,0,1.0,0
+iri,Irigwe,iri,same_language,0,1.0,0
+irk,Iraqw,irk,same_language,0,1.0,0
+isn,Isanzu,nim,sister,2,0.92,82
+iso,Isoko,atg,close_relative,6,0.794,181
+izr,Izere,izr,same_language,0,1.0,0
+izz,Izii,iqw,same_language,0,1.0,0
+jab,Hyam,iri,close_relative,5,0.889,83
+jbn,Nafusi,kab,close_relative,3,0.793,815
+jgo,Ngomba,ybb,close_relative,3,0.8,30
+jib,Jibu,jbu,sister,2,,120
+jid,Bu (Kaduna State),nin,close_relative,4,0.875,23
+jit,Jita,rub,close_relative,4,0.839,492
+jow,Jowulu,bwq,close_relative,4,,158
+jub,Wannu,kub,close_relative,5,0.853,150
+jum,Jumjum,mfz,sister,2,,73
+kab,Kabyle,kab,same_language,0,1.0,0
+kam,Kamba (Kenya),kik,close_relative,4,0.629,201
+kbn,Kare,xuo,close_relative,4,0.839,106
+kbo,Keliko,kbo,same_language,0,1.0,0
+kbp,Kabiye,kbp,same_language,0,1.0,0
+kbr,Kafa,kbr,same_language,0,1.0,0
+kby,Manga Kanuri,kby,same_language,0,1.0,0
+kcc,Lubila,yaz,close_relative,3,,55
+kcg,Tyap,kcg,same_language,0,1.0,0
+kcn,Nubi,tir,same_family,10,0.667,1785
+kcq,Kamo,bba,same_family,8,0.714,908
+kde,Makonde,kde,same_language,0,1.0,0
+kdh,Tem,kdh,same_language,0,1.0,0
+kdj,Karamojong,kdj,same_language,0,1.0,0
+kdl,Tsikimba,kdl,same_language,0,1.0,0
+kdn,Kunda,kdn,same_language,0,1.0,0
+kdx,Kam,soy,close_relative,3,0.656,1083
+kea,Cape Verdean Creole,spa,close_relative,6,0.486,3564
+kec,Keiga,bkv,inventory_only,,0.885,2307
+ken,Kenyang,ken,same_language,0,1.0,0
+keo,Kakwa,keo,same_language,0,1.0,0
+ker,Kera,ker,same_language,0,1.0,0
+khq,Songhoy,khq,same_language,0,1.0,0
+khy,Kili,rim,same_family,10,0.871,1302
+kia,Kim,kia,same_language,0,1.0,0
+kik,Kikuyu,kik,same_language,0,1.0,0
+kin,Kinyarwanda,kin,same_language,0,1.0,0
+kiz,Kisi,zga,close_relative,4,0.639,69
+kkj,Kako,kkj,same_language,0,1.0,0
+klu,Klao,klu,same_language,0,1.0,0
+kma,Konni,kma,same_language,0,1.0,0
+kmb,Kimbundu,kkj,same_family,8,0.676,1423
+kmw,Komo,loq,same_family,11,0.839,979
+knc,Kanuri,kby,close_relative,3,0.667,328
+knf,Bola,knf,same_language,0,1.0,0
+knk,Kuranko,knk,same_language,0,1.0,0
+kno,Kono (Sierra Leone),kno,same_language,0,1.0,0
+koo,Konjo,nnb,sister,2,0.706,114
+kpe,Kpelle,trc,inventory_only,,0.889,
+kpz,Kupsapiiny,kpz,same_language,0,1.0,0
+kqp,Kimré,kqp,same_language,0,1.0,0
+kqs,Kissi,kss,sister,2,0.929,46
+krb,Karan,gso,inventory_only,,0.9,13526
+kri,Krio,kri,same_language,0,1.0,0
+krs,Gbaya (South Sudan),krs,same_language,0,1.0,0
+krw,Western Krahn,wob,sister,2,0.84,190
+krx,Karon,cwt,close_relative,3,0.962,57
+ksb,Shambala,ksb,same_language,0,1.0,0
+ksf,Bafia,kkj,close_relative,6,0.758,513
+ksp,Kaba,sba,close_relative,3,1.0,178
+kss,Southern Kisi,kss,same_language,0,1.0,0
+ktb,Kambaata,ktb,same_language,0,1.0,0
+ktj,Plapo Krumen,ktj,same_language,0,1.0,0
+ktz,Juǀʼhoan,ngl,inventory_only,,0.619,1789
+kub,Kutep,kub,same_language,0,1.0,0
+kuj,Kuria,sxb,close_relative,3,,76
+kus,Kusaal,kus,same_language,0,1.0,0
+kvj,Psikye,bcw,close_relative,3,0.833,36
+kya,Kwaya,rub,close_relative,4,0.833,497
+kyf,Kouya,kyf,same_language,0,1.0,0
+kyq,Kenga,kyq,same_language,0,1.0,0
+kzr,Karang,xuo,close_relative,3,0.929,30
+lad,Ladino,spa,close_relative,3,0.594,2495
+lag,Langi,rim,close_relative,4,0.765,150
+lai,Lambya,nyy,close_relative,5,0.733,72
+laj,Lango (Uganda),laj,same_language,0,1.0,0
+lam,Lamba,lam,same_language,0,1.0,0
+lap,Laka (Chad),sba,close_relative,3,0.812,109
+lch,Luchazi,kkj,same_family,10,0.771,2116
+ldb,Duya,iri,close_relative,6,0.788,126
+ldd,Luri,hau,same_family,9,0.733,151
+ldk,Leelau,jen,close_relative,5,,25
+lee,Lyélé,lee,same_language,0,1.0,0
+lef,Lelemi,lef,same_language,0,1.0,0
+leh,Lenje,ilb,sister,2,0.719,217
+lgg,Lugbara,lgg,same_language,0,1.0,0
+lgq,Logba,ade,close_relative,3,0.8,140
+lia,West-Central Limba,lia,same_language,0,1.0,0
+lig,Ligbi,sus,close_relative,6,0.793,1217
+lik,Lika,loq,same_family,10,0.871,1027
+lin,Lingala,loq,same_family,9,0.906,796
+lip,Sekpele,lip,same_language,0,1.0,0
+liy,Banda-Bambari,zmz,same_family,7,,301
+lky,Lokoya,teo,close_relative,6,0.724,428
+lla,Lala-Roba,xuo,close_relative,6,0.8,422
+lln,Lele,lln,same_language,0,1.0,0
+lma,Limba,lia,sister,2,0.88,65
+lmd,Lumun,soy,inventory_only,,0.783,3163
+lme,Pévé,lme,same_language,0,1.0,0
+lmp,Limbum,yam,sister,2,0.964,33
+lnl,"Banda, South Central",zmz,close_relative,4,,212
+lns,Nso,lns,same_language,0,1.0,0
+lob,Lobi,lob,same_language,0,1.0,0
+log,Logoti,avu,sister,2,0.871,118
+loi,Loma,bba,close_relative,6,0.543,710
+lok,Loko,lok,same_language,0,1.0,0
+lol,Mongo,nim,same_family,10,0.821,1576
+lom,Loma (Liberia),lom,same_language,0,1.0,0
+loq,Lobala,loq,same_language,0,1.0,0
+lot,Lotuko,teo,close_relative,6,0.815,360
+loz,Lozi,cce,same_family,9,0.765,1253
+lpx,Lopit,teo,close_relative,6,0.759,412
+lth,Thur,ach,same_language,0,0.846,0
+lub,Luba-Katanga,kkj,same_family,8,0.743,1761
+luc,Aringa,luc,same_language,0,1.0,0
+lue,Luvale,kkj,same_family,10,0.824,2063
+lug,Luganda,lug,same_language,0,1.0,0
+luj,Luna,ken,same_family,7,0.852,1954
+lul,Olu'bo,mhi,sister,2,0.939,111
+lun,Lunda,rim,same_family,10,0.897,1366
+luw,Luo,mzk,close_relative,3,0.684,178
+lwo,Luwo,lwo,same_language,0,1.0,0
+maf,Mafa,dbq,close_relative,5,0.917,69
+mas,Maasai,saq,sister,2,,532
+maw,Mampruli,maw,same_language,0,1.0,0
+mbu,Mbula-Bwazza,mbu,same_language,0,1.0,0
+mck,Mbunda,kkj,same_family,11,0.694,2163
+mcn,Masana,mpg,close_relative,4,0.788,68
+mcp,Makaa,mcp,same_language,0,1.0,0
+mcu,Mambila,mcu,same_language,0,1.0,0
+mda,Mada (Nigeria),mda,same_language,0,1.0,0
+mdj,Mangbetu (Meje),mgd,close_relative,5,0.816,461
+mdm,Mayogo,muh,close_relative,3,0.867,288
+mdy,Maale,mdy,same_language,0,1.0,0
+men,Mende,men,same_language,0,1.0,0
+meq,Merey,meq,same_language,0,1.0,0
+mer,Kimîîru,thk,close_relative,3,0.765,58
+mev,Mano,mev,same_language,0,1.0,0
+mey,Hassaniyya,tir,same_family,8,0.575,5636
+mfb,Mbembe,gwr,inventory_only,,0.964,8020
+mfe,Mauritian Creole,mfe,same_language,0,1.0,0
+mfg,Mogofin,knk,close_relative,3,0.917,434
+mfh,Matal,mfh,same_language,0,1.0,0
+mfi,Mo,mfi,same_language,0,1.0,0
+mfk,North Mofu,mfk,same_language,0,1.0,0
+mfm,Marghi South,mif,same_family,7,0.829,113
+mfn,"Mbembe, Cross River",yaz,close_relative,4,,32
+mfo,Mbe,ken,close_relative,4,0.867,136
+mfq,Moba,mfq,same_language,0,1.0,0
+mfv,Mandjak,knf,close_relative,3,0.692,66
+mgc,Morokodo,bex,close_relative,4,0.842,58
+mgd,Moru,mgd,same_language,0,1.0,0
+mge,Mango,mge,same_language,0,1.0,0
+mgh,Mato,mgh,same_language,0,1.0,0
+mgo,Meta',mgo,same_language,0,1.0,0
+mgq,Malila,nyy,close_relative,5,0.767,77
+mhi,Ma'di,mhi,same_language,0,1.0,0
+mho,Mashi,kkj,same_family,8,0.811,2407
+mif,Mofu-Gudur,mif,same_language,0,1.0,0
+mkf,Miya,hau,same_family,8,0.568,105
+mkl,Mokole,mkl,same_language,0,1.0,0
+mkw,Kituba,vif,same_family,7,0.767,353
+mlg,Malagasy,mlg,same_language,0,1.0,
+mlw,Moloko,muy,close_relative,3,0.771,9
+mmo,Muan,ilb,inventory_only,,0.846,12971
+mmu,Mmaala,yas,close_relative,3,0.88,18
+mmy,Migaama,daa,sister,2,0.926,63
+mnf,Mundani,mnf,same_language,0,1.0,0
+mnh,Mono,zmz,close_relative,6,,79
+mnk,Mandinka,mnk,same_language,0,1.0,0
+moa,Mwan,moa,same_language,0,1.0,0
+mos,Mossi,mos,same_language,0,1.0,0
+moz,Mukulu,moz,same_language,0,1.0,0
+mpe,Majang,tex,close_relative,5,0.815,405
+mpg,Marba,mpg,same_language,0,1.0,0
+mqb,Mbuko,mqb,same_language,0,1.0,0
+mqu,Mandari,keo,sister,2,0.75,248
+msc,Sankaran Maninka,bam,close_relative,3,0.893,445
+mse,Musey,mpg,sister,2,1.0,52
+mua,Mundang,xuo,close_relative,6,0.862,234
+mug,Mousgoum,xed,close_relative,5,0.75,155
+muh,Mündü,muh,same_language,0,1.0,0
+mur,Murle,mur,same_language,0,1.0,0
+muy,Muyang,muy,same_language,0,1.0,0
+mwe,Metta (Menemo),yao,sister,2,0.697,584
+mwm,Sar,gvl,sister,2,0.719,88
+mxx,Mahou,bam,close_relative,3,0.862,517
+myb,Mbay,myb,same_language,0,1.0,0
+mye,Myene,kkj,close_relative,4,0.879,899
+myf,Bambassi,moz,inventory_only,,0.923,1813
+myk,Minyanka,myk,same_language,0,1.0,0
+myo,Mao,kbr,close_relative,3,0.793,216
+myx,Masaaba,myx,same_language,0,1.0,0
+mzj,Manya,mzj,same_language,0,1.0,0
+mzk,Mambila,mzk,same_language,0,1.0,0
+mzm,Mumuye,mzm,same_language,0,1.0,0
+mzw,Deg,mzw,same_language,0,1.0,0
+naq,Khoekhoe,ngl,inventory_only,,0.812,2240
+nat,Hungworo,asg,same_family,7,0.818,205
+naw,Nawdem,naw,same_language,0,1.0,0
+nba,Nyemba,kkj,same_family,10,0.698,2188
+ncr,Ncane,nhu,close_relative,3,0.821,16
+ncu,Chumburung,ncu,same_language,0,1.0,0
+ndb,Kenswei Nsei,bav,sister,2,0.889,11
+ndi,Samba Leko,mzm,same_family,8,0.964,79
+ndo,Oshiwambo,rim,same_family,11,0.73,2316
+ndv,Ndut,ndv,same_language,0,1.0,0
+ndz,Ndogo,ndz,same_language,0,1.0,0
+ney,Neyo,gud,close_relative,3,0.857,117
+nfr,Nafaanra,nfr,same_language,0,1.0,0
+nga,Ngbaka,nga,same_language,0,1.0,0
+ngb,Northern Ngbandi,sag,close_relative,3,0.903,404
+ngb-zaire,Ngbandi,bqc,inventory_only,,0.957,
+ngb-zaire2,Ngbandi,bqc,inventory_only,,0.957,
+ngc,Ngombe (Democratic Republic of Congo),loq,same_family,8,0.935,208
+nge,Ngemba,pny,close_relative,3,0.824,22
+ngh,Nǁng,taq,inventory_only,,0.619,5399
+ngi,Ngizim,hau,same_family,7,0.571,266
+ngj,Ngie,mgo,close_relative,4,0.909,10
+ngl,Lomwe,ngl,same_language,0,1.0,0
+ngn,Ngwo,mgo,close_relative,3,0.939,32
+ngz,Ngungwel,nim,same_family,14,0.767,2096
+nhb,Gan,moa,close_relative,5,0.667,189
+nhr,Naro,ngl,inventory_only,,0.784,1858
+nhu,Noni,nhu,same_language,0,1.0,0
+nhw,Bèŋ (Ngain),nhw,same_language,0,1.0,0
+nie,Niellim,kia,close_relative,6,0.8,211
+nih,"Nyiha, Tanzania",nyy,same_family,8,0.759,100
+nim,Nilamba,nim,same_language,0,1.0,0
+nin,Ninzo,nin,same_language,0,1.0,0
+niy,Ngiti,mgd,close_relative,4,0.824,425
+nko,Nkonya,nko,same_language,0,1.0,0
+nla,Ngombale,ybb,close_relative,3,0.706,29
+nmn,Taa,ngl,inventory_only,,0.596,1940
+nmq,Nambya,sna,close_relative,6,0.8,445
+nnb,Nande,nnb,same_language,0,1.0,0
+nnh,Ngyembɔɔn,ybb,sister,2,0.808,16
+nnw,Nuni,nnw,same_language,0,1.0,0
+nqo,N'Ko,ndv,inventory_only,,1.0,
+nse,Nsenga,tap,close_relative,3,,855
+nso,Northern Sotho,cce,same_family,8,0.684,468
+ntk,Ikoma-Nata-Isenye,sxb,close_relative,6,,120
+ntr,Delo (Ntrubo),ntr,same_language,0,1.0,0
+nuj,Nyole,nuj,same_language,0,1.0,0
+nup,Nupe,kub,close_relative,6,0.812,567
+nus,Nuer,nus,same_language,0,1.0,0
+nwb,Nyabwa,nwb,same_language,0,1.0,0
+nxd,Ngando (Democratic Republic of Congo),kkj,same_family,10,0.8,892
+nya,Chichewa,nya,same_language,0,1.0,0
+nyb,Nyangbo,avn,close_relative,3,0.867,7
+nyj,Nyanga,nim,close_relative,4,0.885,755
+nym,Nyamwezi,suk,sister,2,0.846,214
+nyy,Nyakyusa-Ngonde,nyy,same_language,0,1.0,0
+nza,Tigon Mbembe,kub,close_relative,4,0.879,69
+nzd,Nzadi,nim,same_family,7,0.759,1565
+nzi,Nzema,nzi,same_language,0,1.0,0
+odu,Odual,ann,close_relative,5,0.833,157
+ogc,Ogba,eza,close_relative,3,0.967,203
+okr,Kirike,ikk,inventory_only,,0.931,230
+oku,Oku,oku,same_language,0,1.0,0
+old,Mochi,old,same_language,0,1.0,0
+onw,Old Nubian,gna,inventory_only,,0.966,3928
+otr,Otoro,mor,close_relative,5,,45
+ozm,Koonzime,ozm,same_language,0,1.0,0
+pae,Pagibete,loq,same_family,12,0.781,435
+pbi,Podoko,pbi,same_language,0,1.0,0
+pfe,Peere,mzm,close_relative,6,0.852,134
+pko,Pökoot,enb,sister,2,,61
+plt,Malgache,mlg,inventory_only,,0.848,
+pny,Pinyin,pny,same_language,0,1.0,0
+pnz,Pana,xuo,close_relative,4,0.871,99
+pov,Guinea-Bissau Creole,spa,close_relative,6,0.5,3328
+puu,Punu,vif,close_relative,6,0.833,158
+pze,Polci,hau,same_family,10,0.568,144
+rel,Rendille,rel,same_language,0,1.0,0
+rif,Tarifit,kab,close_relative,5,0.9,758
+rim,Nyaturu,rim,same_language,0,1.0,0
+rmt,Domari,ell,same_family,16,0.806,1288
+rng,Ronga,rng,same_language,0,1.0,0
+rub,Gungu,rub,same_language,0,1.0,0
+ruc,Ruuli,tlj,sister,2,,287
+run,Kirundi,run,same_language,0,1.0,0
+rwk,Rwa,jmc,sister,2,,37
+saa,Saba,moz,close_relative,5,0.88,70
+sad,Sandawe,kbr,inventory_only,,0.714,1404
+sag,Sango,sag,same_language,0,1.0,0
+sag-central_african_republic,Sango,avu,inventory_only,,0.967,
+sag-congo,Sango,avu,inventory_only,,0.967,
+sav,Safen,ndv,close_relative,4,0.833,34
+sba,Ngambay,sba,same_language,0,1.0,0
+sbd,"Samo, Southern",sbd,same_language,0,1.0,0
+sbk,Safwa,nyy,close_relative,5,0.793,133
+sef,"Sénoufo, Cebaara",nfr,close_relative,3,1.0,434
+sef-cote_d_ivoire,Senoufo (Senari),ilb,inventory_only,,0.846,
+sef-cote_d_ivoire2,Senoufo (Senari),ilb,inventory_only,,0.846,
+seh,Sena,seh,same_language,0,1.0,0
+ses,Koyraboro Senni Songhai,ses,same_language,0,1.0,0
+sev,"Sénoufo, Nyarafolo",nfr,sister,2,0.963,341
+sfw,Sehwi,cko,sister,2,0.931,571
+she,Sheko,kbr,inventory_only,,0.923,103
+shi,Tashelhayt,shi,same_language,0,1.0,0
+shk,Shilluk,shk,same_language,0,1.0,0
+shr,Shi,flr,close_relative,4,0.818,68
+shu,Arabic (Chadian),tir,same_family,9,0.55,2730
+shy,Shawiya,kab,close_relative,5,0.767,235
+sig,Paasaal,sig,same_language,0,1.0,0
+sil,"Sisaala, Tumulung",sil,same_language,0,1.0,0
+siz,Siwi,kab,close_relative,5,0.806,2094
+sld,Sisaali,sld,same_language,0,1.0,0
+sna,Shona,sna,same_language,0,1.0,0
+snf,Noon,ndv,close_relative,5,1.0,16
+snk,Soninke,bbo,close_relative,6,,868
+snk-senegal,Sooninke (Sarakole),bim,inventory_only,,0.926,
+snm,"Ma’di, Southern",mhi,sister,2,0.788,107
+snw,Selee,snw,same_language,0,1.0,0
+sok,Sokoro,moz,close_relative,5,0.857,74
+sop,Songe,kkj,same_family,7,0.667,1506
+sor,Somrai,tmc,close_relative,4,0.742,85
+soy,Miyobe,soy,same_language,0,1.0,0
+spa,Spanish,spa,same_language,0,1.0,0
+spp,Supyire Senoufo,spp,same_language,0,1.0,0
+spy,Sabaot,spy,same_language,0,1.0,0
+srr,Serer (Senegal),ful,sister,2,0.868,1635
+ssc,Suba-Simbiti,sxb,close_relative,3,,24
+ssl,Western Sisaala,sld,sister,2,0.964,26
+ssn,Waata,kxc,same_family,7,,1001
+ssw,Swati,cce,same_family,8,0.667,292
+ssy,Saho,dsh,same_family,7,0.767,1203
+suk,Sukuma,suk,same_language,0,1.0,0
+suq,Suri,tex,same_family,7,0.821,299
+sur,Mwaghavul,sur,same_language,0,1.0,0
+sus,Susu,sus,same_language,0,1.0,0
+swb,Comorian,pkb,close_relative,4,,1286
+swh,Swahili,swh,same_language,0,1.0,0
+sym,Sa,sbd,sister,2,0.741,56
+szg,Sengele,nim,same_family,9,0.821,1910
+szv,Isu,bng,close_relative,5,0.862,323
+tan,Tangale,sur,same_family,7,0.718,260
+taq,Tamasheq,taq,same_language,0,1.0,0
+taz,Tocho,soy,inventory_only,,0.773,3153
+tbt,Tembo,flr,close_relative,4,0.853,133
+tbz,Ditammari,tbz,same_language,0,1.0,0
+tcd,Tafi,avn,close_relative,3,0.867,8
+ted,Kroumen Tépo,ted,same_language,0,1.0,0
+tem,Themne,tem,same_language,0,1.0,0
+teo,Ateso,teo,same_language,0,1.0,0
+tex,Tennet,tex,same_language,0,1.0,0
+tgw,"Sénoufo, Tagwana",dyi,sister,2,0.889,86
+thk,Tharaka,thk,same_language,0,1.0,0
+thv,Tamahaq,taq,close_relative,3,0.867,1500
+thz,Tayart Tamajeq,taq,sister,2,0.867,1122
+tig,Tigre,tir,close_relative,3,0.761,236
+tik,Tikar,tik,same_language,0,1.0,0
+tir,Tigrinya,tir,same_language,0,1.0,0
+tiv,Tiv,ken,same_family,8,0.9,148
+tll,Tetela,rim,same_family,10,0.818,1125
+tmc,Tumak,tmc,same_language,0,1.0,0
+tng,Northern Gabri,tng,same_language,0,1.0,0
+tnr,Ménik,tnr,same_language,0,1.0,0
+tod,Toma,lom,sister,2,0.71,68
+tog,Tonga (Nyasa),kdn,close_relative,4,0.778,576
+toh,Tonga,toh,same_language,0,1.0,0
+toi,Tonga (Zambia),ilb,sister,2,0.962,213
+toq,Toposa,kdj,sister,2,0.958,301
+tpm,Tampulma,tpm,same_language,0,1.0,0
+trc,Tarok (Yergum),trc,same_language,0,1.0,0
+tsa,Tsaangi,nim,same_family,19,0.821,2404
+tsc,Tswa,rng,close_relative,3,0.8,417
+tso,Tsonga,tso,same_language,0,1.0,0
+tsp,Toussian,bba,close_relative,5,0.952,878
+tsv,Tsogo,kkj,close_relative,6,0.722,777
+tsw,Tsishingini,kdl,close_relative,4,0.963,80
+ttq,Tawallammat Tamajaq,taq,sister,2,0.9,743
+ttr,Tera,dbq,close_relative,6,0.8,213
+tui,Tupuri,xuo,close_relative,5,0.833,236
+tum,Tumbuka,kdn,close_relative,4,0.674,593
+tuq,Teda,kby,close_relative,5,0.8,662
+tuz,Turka,cme,sister,2,0.962,65
+tvu,Tunen,lem,sister,2,,33
+twi,Twi,aka,same_language,0,0.931,0
+tyx,Teke-Tyee,rim,same_family,14,0.933,2313
+tzm,Shilha,shi,sister,2,0.857,607
+uba,Ubang,bkv,close_relative,4,0.857,57
+udu,Uduk,udu,same_language,0,1.0,0
+ukv,Kuku,bfa,sister,2,0.92,58
+umb,Umbundu,kkj,same_family,8,0.844,1815
+urh,Urhobo,atg,close_relative,6,0.765,208
+uth,Hun-Saare,asg,same_family,7,0.793,119
+utr,Etulo,yba,close_relative,3,0.833,146
+vag,Vagala,vag,same_language,0,1.0,0
+vai,Vai,kno,sister,2,0.5,186
+ven,Venda,rim,close_relative,5,0.879,1964
+ver,Verre,mzm,same_family,8,0.929,113
+vif,Vili,vif,same_language,0,1.0,0
+vmw,Makhuwa,vmw,same_language,0,1.0,0
+vun,Vunjo,vun,same_language,0,1.0,0
+vut,Vute,vut,same_language,0,1.0,0
+wan,Wan,moa,sister,2,0.71,14
+wbi,Vwanji,sbp,sister,2,,70
+weh,Weh,lns,close_relative,6,0.778,85
+wib,Toussian,bba,close_relative,5,0.952,849
+wmw,Mwani,wmw,same_language,0,1.0,0
+wob,Wobé,wob,same_language,0,1.0,0
+wof,Wolof (Gambia),cou,close_relative,5,0.862,341
+wol,Wolof,ful,close_relative,5,0.738,1547
+wwa,Waama,wwa,same_language,0,1.0,0
+xed,Hdi,xed,same_language,0,1.0,0
+xho,Xhosa,cce,same_family,7,0.625,909
+xmd,Mbudum,dbq,close_relative,3,0.914,35
+xmg,Mengaka,ybb,close_relative,3,0.686,44
+xnz,Kenzi Nubian,wmw,inventory_only,,0.964,3880
+xog,Soga,xog,same_language,0,1.0,0
+xon,Konkomba,xon,same_language,0,1.0,0
+xpe,Liberia Kpelle,lom,close_relative,5,0.833,114
+xrb,Kar,xrb,same_language,0,1.0,0
+xsm,Kasem,xsm,same_language,0,1.0,0
+xsn,Sanga,asg,same_family,12,0.964,480
+xtc,Katcha-Kadugli-Miri,gde,inventory_only,,0.879,1760
+xuo,Kuo,xuo,same_language,0,1.0,0
+yam,Yamba,yam,same_language,0,1.0,0
+yao,Yao,yao,same_language,0,1.0,0
+yas,Nugunu,yas,same_language,0,1.0,0
+yat,Yambeta,yat,same_language,0,1.0,0
+yav,Yangben,yas,close_relative,4,0.8,29
+yba,Yala,yba,same_language,0,1.0,0
+ybb,Yemba,ybb,same_language,0,1.0,0
+yid,Yiddish,ngl,inventory_only,,0.694,
+yko,Yasa,bng,close_relative,3,0.758,162
+yns,Yansi,nim,same_family,11,0.833,1784
+yor,Yoruba,yor,same_language,0,1.0,0
+yre,Yaouré,yre,same_language,0,1.0,0
+yun,Bena,xuo,same_family,7,0.929,392
+zag,Zaghawa,kby,close_relative,6,0.852,1435
+zen,Zenaga,kab,close_relative,4,0.871,2999
+zga,Kinga,zga,same_language,0,1.0,0
+zin,Zinza,hay,close_relative,3,0.862,129
+ziw,Zigula,ziw,same_language,0,1.0,0
+zne,Zande,zne,same_language,0,1.0,0
+zul,Zulu,cce,same_family,7,0.767,596
